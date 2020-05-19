@@ -1,0 +1,22 @@
+.hero{
+    /* background-image: url(/assets/images/portfolio_bg.png);
+    background-size: cover; 
+    max-height: 453px; */
+    text-align: center;
+}
+
+.hero img {
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+.hero h3{
+    background-color: #41A2AC;
+    text-transform: uppercase;
+
+}
+.social-media{
+    background-color: #A7343D;
+    display: inline-block;
+    
+}
