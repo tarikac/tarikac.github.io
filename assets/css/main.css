@@ -18,3 +18,20 @@
 .hero h5{
     background-color: #A7343D;
 }
+
+.page-footer {
+    background-color: #A7343D;
+    
+}
+
+.footer-copyright {
+    background-color: #41A2AC !important;
+    color: #886440 !important; 
+}
+
+.project_links:link {
+    color: #886440 !important;
+}
+.project_links:hover{
+    color: #A7343D !important;
+}
