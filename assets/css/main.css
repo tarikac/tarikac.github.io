@@ -1,3 +1,6 @@
+body {
+    background-color: #efebe9;
+}
 .hero{
     /* background-image: url(/assets/images/portfolio_bg.png);
     background-size: cover; 
@@ -30,12 +33,14 @@
 }
 
 .project_links:link {
-    color: #886440 !important;
+    color: #efebe9  !important;
 }
 .project_links:hover{
-    color: #A7343D !important;
+    color: #efebe9  !important;
 }
-
+.project_links:visited{
+    color: #efebe9 !important;
+}
 .card-content {
     padding: 25px !important;
 }
@@ -43,4 +48,8 @@
 .card-action{
     background-color: #A7343D  !important;
     padding: 10px !important;
+}
+
+.card-reveal {
+    background-color:  #efebe9 !important;
 }
