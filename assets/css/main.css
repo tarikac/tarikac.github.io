@@ -35,3 +35,12 @@
 .project_links:hover{
     color: #A7343D !important;
 }
+
+.card-content {
+    padding: 25px !important;
+}
+
+.card-action{
+    background-color: #A7343D  !important;
+    padding: 10px !important;
+}
