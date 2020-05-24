@@ -53,3 +53,7 @@ body {
 .card-reveal {
     background-color:  #efebe9 !important;
 }
+
+label {
+    color: white !important;
+}
